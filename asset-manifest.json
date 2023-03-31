@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/beat-card/static/css/main.e6c13ad2.css",
+    "main.js": "/beat-card/static/js/main.219a1418.js",
+    "static/js/787.06b5f465.chunk.js": "/beat-card/static/js/787.06b5f465.chunk.js",
+    "index.html": "/beat-card/index.html",
+    "main.e6c13ad2.css.map": "/beat-card/static/css/main.e6c13ad2.css.map",
+    "main.219a1418.js.map": "/beat-card/static/js/main.219a1418.js.map",
+    "787.06b5f465.chunk.js.map": "/beat-card/static/js/787.06b5f465.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.219a1418.js"
+  ]
+}
