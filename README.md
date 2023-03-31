@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Pre requisits
+
+This project uses Nodejs, [install nodejs](https://nodejs.org/en)
+Clone the repository, then execute `cd beat-card`
+Install the dependencies running `npm install`
+
 ## Available Scripts
 
 In the project directory, you can run:
